@@ -1,0 +1,20 @@
+[
+    {
+        "id": "8c0e7bf1.bcfe2",
+        "type": "http request",
+        "z": "4a746619.ea6b28",
+        "name": "",
+        "method": "POST",
+        "ret": "txt",
+        "url": "https://api.mediatek.com/mcs/v2/devices/DaGhXclX/datapoints.csv",
+        "tls": "",
+        "x": 550,
+        "y": 340,
+        "wires": [
+            [
+                "4a353031.a01cb8",
+                "500a1ca4.0296b4"
+            ]
+        ]
+    }
+]
